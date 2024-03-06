@@ -6,6 +6,6 @@ public class Credits : MonoBehaviour
     public void Quit()
     {
         //Application.Quit();
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 4);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 3);
     }
 }

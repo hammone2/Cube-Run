@@ -842,8 +842,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1795272369}
-  forwardForce: 4000
-  sideForce: 100
+  forwardForce: 8000
+  sideForce: 120
 --- !u!1001 &884162727934545784
 PrefabInstance:
   m_ObjectHideFlags: 0
